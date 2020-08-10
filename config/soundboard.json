@@ -1,0 +1,56 @@
+{
+  "modes": {
+    "soundboardMode": {
+      "name": "soundboard",
+      "mp3": "../sounds/menu/boite_a_son.mp3",
+      "profiles": [
+        {
+          "name": "pat_patrouille",
+          "mp3":"../sounds/menu/sb_la_pat_patrouille2.mp3",
+          "binding": {
+            "1": "../sounds/pat_patrouille/pat_patrouille_rider_jai_besoin_de_vous.mp3",
+            "2": "../sounds/pat_patrouille/pat_patrouille_generique.mp3"
+          }
+        },
+        {
+          "name": "Octonautes",
+          "mp3":"../sounds/menu/sb_les_octonautes2.mp3",
+          "binding": {
+            "1": "../sounds/octonautes/octonauts_capitaine_kwazi_declenche_locto_alerte.mp3",
+            "2": "../sounds/octonautes/octonauts_minute_sous_marine.mp3"
+          }
+        },
+        {
+          "name": "Voiture",
+          "mp3":"../sounds/menu/sb_voiture_et_camion2.mp3",
+          "binding": {
+            "1": "../sounds/voiture/voiture_klaxon.mp3",
+            "2": "../sounds/voiture/moteur.mp3",
+            "3": "../sounds/voiture/voiture_gendarmerie.mp3"
+          }
+        },
+        {
+          "name": "histoire",
+          "mp3":"../sounds/menu/sb_les_histoires.mp3",
+          "binding": {
+            "1": "../sounds/histoires/le-lapin-qui-faisait-des-prouts-marion.mp3",
+            "2": "../sounds/histoires/les-couleurs-de-bebe-joseph.mp3"
+
+          }
+        }
+      ]
+    },
+    "travelMode": {
+      "name": "voyage",
+      "mp3": "../sounds/menu/voyage.mp3"
+    },
+    "quizzMode":{
+      "name": "quizz",
+      "mp3": "../sounds/menu/le_quizz_des_enfants.mp3"
+    },
+    "storyMode":{
+      "name": "quizz",
+      "mp3": "../sounds/menu/le_quizz_des_enfants.mp3"
+    }
+  }
+}
