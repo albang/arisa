@@ -5,22 +5,6 @@
       "mp3": "../sounds/menu/boite_a_son.mp3",
       "profiles": [
         {
-          "name": "pat_patrouille",
-          "mp3":"../sounds/menu/sb_la_pat_patrouille2.mp3",
-          "binding": {
-            "1": "../sounds/pat_patrouille/pat_patrouille_rider_jai_besoin_de_vous.mp3",
-            "2": "../sounds/pat_patrouille/pat_patrouille_generique.mp3"
-          }
-        },
-        {
-          "name": "Octonautes",
-          "mp3":"../sounds/menu/sb_les_octonautes2.mp3",
-          "binding": {
-            "1": "../sounds/octonautes/octonauts_capitaine_kwazi_declenche_locto_alerte.mp3",
-            "2": "../sounds/octonautes/octonauts_minute_sous_marine.mp3"
-          }
-        },
-        {
           "name": "Voiture",
           "mp3":"../sounds/menu/sb_voiture_et_camion2.mp3",
           "binding": {
